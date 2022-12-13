@@ -52,7 +52,7 @@
     "cors": "^2.8.5",
     "dotenv": "^8.2.0",
     "errorhandler": "^1.5.1",
-    "express": "^4.17.1",
+    "express": "^4.17.3",
     "helmet": "^3.23.3",
     "moment": "^2.27.0",
     "mysql": "^2.18.1"
